@@ -1,0 +1,13 @@
+[es]
+  title = "tcck"
+  languageName = "Español"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/es"
+
+[en]
+  title = "tcck"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
