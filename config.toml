@@ -1,0 +1,4 @@
+publishdir = "./docs/"
+baseURL = "https://tcck.github.io/"
+languageCode = "es-ar"
+title = "tcck"

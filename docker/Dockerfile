@@ -32,5 +32,7 @@ ARG USER_UMASK
 RUN printf 'umask %s\n' "${USER_UMASK}" >>/home/tcck/.profile
 RUN printf "export PS1='%s '\n" '\h:\W\$' >>/home/tcck/.profile
 
+EXPOSE 1313
+
 WORKDIR /src/website
 CMD /bin/sh -l
