@@ -1,4 +1,5 @@
-logoText = "tcck"
+logo = true
+logoText = "TCCK"
 logoType = "short" # long, short
 description = "Tai Chi Chuan, Chi Kung."
 custom_css = []
@@ -30,9 +31,9 @@ showMobileMenuTerms = ["tags", "categories", "series"]
 
 # body
 enableBreadcrumb = true
-enablePhotoSwipe = true
-enableSearch = false
-enableSearchHighlight = true
+enablePhotoSwipe = false
+enableSearch = true
+enableSearchHighlight = false
 enableGoToTop = true
 enableWhoami = false
 summaryShape = "classic" # card, classic, compact
@@ -45,19 +46,19 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = ""
+myname = "TCCK"
 email = ""
 whoami = "Tai Chi Chuan, Chi Kung"
 bioImageUrl = ""
 useGravatar = false
 location = ""
-organization = ""
+organization = "TCCK"
 link = ""
 
 # sidebar
-enableBio = false
+enableBio = true
 enableBioImage = false
-enableSidebar = false
+enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
@@ -104,7 +105,7 @@ commento = false
   twitter = ""
   github = "https://github.com/tcck/tcck.github.io"
   stack-overflow = ""
-  instagram = "https://instagram.com/tcck.uy/"
+  instagram = "tcck.uy"
   google-plus = ""
   youtube = ""
   medium = ""

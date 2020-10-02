@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Intro"
 date: 2020-10-02T01:34:00Z
 draft: false
 header:
@@ -9,9 +9,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Tai Chi Chuan, Chi Kung
-    subtitle:
       - Respirar mejor para vivir mejor!
+    subtitle:
+      - Tai Chi Chuan, Chi Kung, Yoga.
     titleColor:
     titleShadow: true
     titleFontSize: 44
