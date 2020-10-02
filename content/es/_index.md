@@ -2,8 +2,8 @@
 header:
   - type: text
     height: 200
-    paddingX: 50
-    paddingY: 0
+    paddingX: 15
+    paddingY: 15
     align: center
     title:
       - ¡Respirar mejor, para vivir mejor!
@@ -14,6 +14,6 @@ header:
     titleFontSize: 44
     subtitleColor:
     subtitleCursive: true
-    subtitleFontSize: 18
-    spaceBetweenTitleSubtitle: 16
+    subtitleFontSize: 20
+    spaceBetweenTitleSubtitle: 18
 ---
