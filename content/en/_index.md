@@ -6,7 +6,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - ¡Respirar mejor, para vivir mejor!
+      - Breathe better, to live better!
     subtitle:
       - Tai Chi Chuan, Chi Kung, Yoga.
     titleColor:
