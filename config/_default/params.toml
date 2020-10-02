@@ -27,7 +27,8 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 homeHeaderType = "text" # text, img, slide, typewriter
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+#showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = []
 
 # body
 enableBreadcrumb = true
@@ -56,19 +57,19 @@ organization = ""
 link = ""
 
 # sidebar
-enableBio = true
+enableBio = false
 enableBioImage = false
-enableSidebar = true
-enableSidebarTags = true
-enableSidebarSeries = true
-enableSidebarCategories = true
-enableHomeSidebarTitles = true
-enableListSidebarTitles = true
-enableToc = true
+enableSidebar = false
+enableSidebarTags = false
+enableSidebarSeries = false
+enableSidebarCategories = false
+enableHomeSidebarTitles = false
+enableListSidebarTitles = false
+enableToc = false
 hideToc = false
 tocFolding = true
 tocPosition = "inner" # inner, outer
-enableTocSwitch = true
+enableTocSwitch = false
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
@@ -77,7 +78,7 @@ enableSidebarPostsByOrder = false
 # footer
 showPoweredBy = true
 showFeedLinks = false
-showSocialLinks = false
+showSocialLinks = true
 enableLangChange = false
 
 # service
