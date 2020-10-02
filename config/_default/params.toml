@@ -1,7 +1,7 @@
 logo = true
 logoText = "TCCK"
 logoType = "short" # long, short
-description = "Tai Chi Chuan, Chi Kung."
+description = "Tai Chi Chuan, Chi Kung, Yoga."
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
@@ -77,7 +77,7 @@ enableSidebarPostsByOrder = false
 # footer
 showPoweredBy = true
 showFeedLinks = false
-showSocialLinks = true
+showSocialLinks = false
 enableLangChange = false
 
 # service
@@ -99,11 +99,11 @@ disqus_shortname = ""
 commento = false
 
 [socialOptions]
-  github = "https://github.com/tcck/tcck.github.io"
   email = "mailto:jeremias.tcck@gmail.com"
   phone = "tel:+59892916460"
   whatsapp = "https://wa.me/59892916460"
   instagram = "https://instagram.com/tcck.uy/"
+  github = ""
   facebook = ""
   twitter = ""
   stack-overflow = ""
@@ -129,3 +129,9 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
+
+[copyrightOptions]
+  enableCopyrightLink = true
+  copyrightLink = "https://creativecommons.org/publicdomain/zero/1.0/"
+  copyrightLinkImage = ""
+  copyrightLinkText = " CC0 1.0"

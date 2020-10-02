@@ -11,7 +11,7 @@ hasCJKLanguage = false
 summaryLength = 70
 buildFuture = false
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, This content is released to the public domain under license"
 timeout = 10000
 enableEmoji = false
 paginate = 13
