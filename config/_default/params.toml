@@ -101,8 +101,8 @@ commento = false
 [socialOptions]
   github = "https://github.com/tcck/tcck.github.io"
   email = "mailto:jeremias.tcck@gmail.com"
-  phone = "+59892916460"
-  whatsapp = "+59892916460"
+  phone = "tel:+59892916460"
+  whatsapp = "https://wa.me/59892916460"
   instagram = "https://instagram.com/tcck.uy/"
   facebook = ""
   twitter = ""
