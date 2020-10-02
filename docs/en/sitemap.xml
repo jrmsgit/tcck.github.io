@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tcck.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tcck.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tcck.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tcck.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tcck.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tcck.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tcck.github.io/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tcck.github.io/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tcck.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tcck.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tcck.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tcck.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>
