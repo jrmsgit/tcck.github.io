@@ -5,9 +5,10 @@ custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = ""
 
-themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
+# theme
+themecolor = ""
+themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 enableThemeChange = true
 
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
