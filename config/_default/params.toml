@@ -1,13 +1,15 @@
 logoText = "tcck"
 logoType = "short" # long, short
-description = "Tai Chi Chuan - Chi Kung."
+description = "Tai Chi Chuan, Chi Kung."
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
+enableThemeChange = true
+
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -28,7 +30,7 @@ showMobileMenuTerms = ["tags", "categories", "series"]
 # body
 enableBreadcrumb = true
 enablePhotoSwipe = true
-enableSearch = true
+enableSearch = false
 enableSearchHighlight = true
 enableGoToTop = true
 enableWhoami = false
@@ -42,19 +44,19 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "Jeremias Casteglione"
-email = "nospam@gmail.com"
-whoami = "Web Developer"
+myname = ""
+email = ""
+whoami = "Tai Chi Chuan, Chi Kung"
 bioImageUrl = ""
 useGravatar = false
-location = "Montevideo, Uruguay"
-organization = "tcck"
-link = "https://tcck.github.io/"
+location = ""
+organization = ""
+link = ""
 
 # sidebar
-enableBio = true
-enableBioImage = true
-enableSidebar = true
+enableBio = false
+enableBioImage = false
+enableSidebar = false
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
@@ -72,10 +74,9 @@ enableSidebarPostsByOrder = false
 
 # footer
 showPoweredBy = true
-showFeedLinks = true
+showFeedLinks = false
 showSocialLinks = true
-enableLangChange = true
-enableThemeChange = true
+enableLangChange = false
 
 # service
 googleTagManager = "" # GTM-XXXXXX
@@ -91,43 +92,9 @@ updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = true
+enableComment = false
 disqus_shortname = ""
 commento = false
-
-[telegram]
-  enable = false
-  siteId = ""
-  dataLimit = 5
-
-[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-[utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-
-[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm'
-  placeholder = '说点什么吧...'
-  visitor = false
 
 [socialOptions]
   email = "mailto:your@email.com"
@@ -160,24 +127,3 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
-
-[donationOptions]
-  enable = false
-  alipay = ""
-  wechat = ""
-  paypal = ""
-  patreon = ""
-
-# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
-[[share]]
-  name = "facebook"
-  username = ""
-[[share]]
-  name = "twitter"
-
-[[footerLinks]]
-  name = ""
-  link = ""
-[[footerLinks]]
-  name = ""
-  link = ""

@@ -1,9 +1,10 @@
 publishdir = "./docs/"
+
 baseURL = "https://tcck.github.io"
 title = "tcck"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
