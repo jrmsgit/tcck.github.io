@@ -46,13 +46,13 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "TCCK"
-email = ""
-whoami = "Tai Chi Chuan, Chi Kung"
+myname = "Jeremías"
+email = "jeremias.tcck@gmail.com"
+whoami = "Tai Chi Chuan, Chi Kung, Yoga."
 bioImageUrl = ""
 useGravatar = false
-location = ""
-organization = "TCCK"
+location = "Montevideo, Uruguay."
+organization = ""
 link = ""
 
 # sidebar
@@ -99,7 +99,7 @@ disqus_shortname = ""
 commento = false
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:jeremias.tcck@gmail.com"
   phone = ""
   facebook = ""
   twitter = ""
