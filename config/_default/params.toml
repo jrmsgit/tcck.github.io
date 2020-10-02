@@ -47,7 +47,7 @@ pubPaginate = 20
 
 # whoami
 myname = "Jeremías"
-email = "jeremias.tcck@gmail.com"
+email = ""
 whoami = "Tai Chi Chuan, Chi Kung, Yoga."
 bioImageUrl = ""
 useGravatar = false
@@ -99,13 +99,14 @@ disqus_shortname = ""
 commento = false
 
 [socialOptions]
+  github = "https://github.com/tcck/tcck.github.io"
   email = "mailto:jeremias.tcck@gmail.com"
-  phone = ""
+  phone = "+59892916460"
+  whatsapp = "+59892916460"
+  instagram = "https://instagram.com/tcck.uy/"
   facebook = ""
   twitter = ""
-  github = "https://github.com/tcck/tcck.github.io"
   stack-overflow = ""
-  instagram = "tcck.uy"
   google-plus = ""
   youtube = ""
   medium = ""
@@ -123,7 +124,6 @@ commento = false
   jianshu = ""
   zhihu = ""
   signal = ""
-  whatsapp = ""
   matrix = ""
   xmpp = ""
   dev-to = ""
