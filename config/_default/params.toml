@@ -31,9 +31,9 @@ homeHeaderType = "text" # text, img, slide, typewriter
 showMobileMenuTerms = []
 
 # body
-enableBreadcrumb = true
+enableBreadcrumb = false
 enablePhotoSwipe = false
-enableSearch = true
+enableSearch = false
 enableSearchHighlight = false
 enableGoToTop = true
 enableWhoami = false
